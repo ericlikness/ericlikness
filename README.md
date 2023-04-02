@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8" />
-    <title>Redirecting to github.com/ericlikness/</title>
+    <title>Redirecting to github.com/ericlikness </title>
     <meta http-equiv="refresh" content="0; url=https://github.com/ericlikness" />
     <link href="https://github.com/ericlikness" rel="me" />
     <link href="https://carpetbomberz.com/" rel="me" />
